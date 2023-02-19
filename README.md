@@ -1,4 +1,4 @@
-# RockyLinux-y-paquetes-.rpm
+# RockyLinux y paquetes .rpm
 
 ## Descripción
 En este proyecto vamos a trabajar sobre rocky linux y los paquetes .rpm
