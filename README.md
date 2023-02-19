@@ -14,7 +14,7 @@ En este proyecto vamos a trabajar sobre rocky linux y los paquetes .rpm
 
 ## Referencia
 
-- []()
+- [Adaptar Rocky Linux](https://tecn-ara.blogspot.com/p/adaptar-rocky-linux.html)
 
 ## Autores
 
