@@ -1,13 +1,13 @@
 # Comandos 
 
-a) 
+a) yum list --available
 
-b) 
+b) yum update
 
-c)
+c) yum search mlocate
 
-d) 
+d) sudo yum list installed
 
-e)
+e) yum install mlocate
 
-f) 
+f) yum remove mlocate
