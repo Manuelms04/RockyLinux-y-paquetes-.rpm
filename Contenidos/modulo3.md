@@ -6,7 +6,7 @@ b) yum update
 
 c) yum search mlocate
 
-d) sudo yum list installed
+d) sudo yum list installed / yum info "nombre del paquete"
 
 e) yum install mlocate
 
