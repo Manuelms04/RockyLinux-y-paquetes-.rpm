@@ -1,8 +1,13 @@
 # Comandos 
 
 a) 
+
 b) 
-c) 
+
+c)
+
 d) 
-e) 
+
+e)
+
 f) 
