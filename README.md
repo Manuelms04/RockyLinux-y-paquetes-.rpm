@@ -1,7 +1,7 @@
 # RockyLinux y paquetes .rpm
 
 ## Descripción
-En este proyecto vamos a trabajar sobre rocky linux y los paquetes .rpm
+* En este proyecto vamos a trabajar sobre rocky linux y los paquetes .rpm
 
 ## Contenidos
  [0.- Introduccion](Contenidos/modulo0.md)
